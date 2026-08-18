@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>2W场景卡 on aiacg - ACG资源导航站</title><link>https://aiacg.github.io/tags/2w%E5%9C%BA%E6%99%AF%E5%8D%A1/</link><description>Recent content in 2W场景卡 on aiacg - ACG资源导航站</description><image><title>aiacg - ACG资源导航站</title><url>https://aiacg.github.io/og-default.png</url><link>https://aiacg.github.io/og-default.png</link></image><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 25 Mar 2024 09:10:15 +0000</lastBuildDate><atom:link href="https://aiacg.github.io/tags/2w%E5%9C%BA%E6%99%AF%E5%8D%A1/index.xml" rel="self" type="application/rss+xml"/><item><title>【3D/汉化/PC】コイカツ! サンシャイン/Koikatsu Sunshine[整合包+2W场景卡+3.58w人物卡]</title><link>https://aiacg.github.io/posts/2024/03/25/ooc4o8go0gc4cskr/</link><pubDate>Mon, 25 Mar 2024 09:10:15 +0000</pubDate><guid>https://aiacg.github.io/posts/2024/03/25/ooc4o8go0gc4cskr/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/%E3%80%903d-%E6%B1%89%E5%8C%96-pc%E3%80%91%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84-%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3-koikatsu-sunshine%E6%95%B4%E5%90%88%E5%8C%852w%E5%9C%BA" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;制作介绍
+社团：illusion&lt;/p&gt;
+&lt;p&gt;开发
+illusion&lt;/p&gt;
+&lt;p&gt;原版名称：コイカツ! サンシャイン
+其他名称：Koikatsu Sunshine
+游戏类型：恋爱模拟
+游戏语言：汉化
+游戏大小：149G
+游戏平台：PC
+资源介绍
+资源为我从某地获取后，重新打包上传，并非我整理。
+整合包大小为188G，默认不带场景卡和工作室mod，缩小体积，人物卡数量为8700.不玩工作室下这个就可以了
+2W场景卡大小为106G：附带工作室mod，恋活做的涩涩视频都是在这里。这游戏精髓还是得玩这个。有上手门槛，如何游玩自行搜索，网上教程一搜就是。
+3.58w人物卡大小为133G：整合包自带的8700人物卡，你认识和不认识的基本都有了，总体品质还是偏上，不过你要是想在沙子里边掏黄金指不定就能找到对你XP的。
+1、游戏不能有中文路径！游戏不能有中文路径！游戏不能有中文路径！中文必卡加载！
+2、有问题请点启动器里面的帮助手册，或者游戏目录下的说明书。
+3、游戏吃内存，建议16G起步，虚拟内存选择自动。
+4、解压出错的、密码不对的。需要重下报错的包。请用官方客户端或者夸克下载。
+5、出现没有四肢（人棍）的。性器解码手动设置BP开头的，或者删除[纸鸢_Shinrou]人偶身体.zipmod
+6、注意，工作室点击读取会读取包括子目录所有人物卡（会爆内存）。缓解方法就是，可以选中要替换的人，将你的KKS角色卡拖放到游戏界面即可替换。
+更新日志
+2023 年度版
+————–新增————–
+KKS_SexFaces H期间显示的自定义面部表情的功能
+KKS_FreeHAutoPlay 回归，分镜功能能用辣
+————–升级————–
+Sideloader 19.2.1 →  19.3
+材质编辑器 Material Editor 3.1.23 → 3.3.0
+KKS界面插件 KKSUS 1.13.0 → 1.14
+KKS Main Game VR 1.3 → 1.4
+H人物调整 H Character Adjustment 2.0 → 2.1
+游戏窗门调整插件 Enable Resize 1.5 → 3.0
+滤色片去除器 Color Filter Remover 19.2.1 → 1.9.3
+滑块数值解锁器 Slider Unlocker 19.2.1 → 19.3
+游戏截屏管理器 Screenshot Manager 19.2.1 → 19.3
+XUnity Resource Redirector 2.0.0 → 2.1
+Runtime Unity Editor 5.0 → 5.2
+预览图&lt;/p&gt;</description></item></channel></rss>

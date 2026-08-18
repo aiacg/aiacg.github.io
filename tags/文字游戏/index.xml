@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>文字游戏 on aiacg - ACG资源导航站</title><link>https://aiacg.github.io/tags/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F/</link><description>Recent content in 文字游戏 on aiacg - ACG资源导航站</description><image><title>aiacg - ACG资源导航站</title><url>https://aiacg.github.io/og-default.png</url><link>https://aiacg.github.io/og-default.png</link></image><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 18 Jan 2024 03:41:46 +0000</lastBuildDate><atom:link href="https://aiacg.github.io/tags/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml"/><item><title>【文字游戏/东方同人/PC/安卓】EraToho The World 画蛇添足版 4.910</title><link>https://aiacg.github.io/posts/2024/01/18/sos4wcsg84kws0c5/</link><pubDate>Thu, 18 Jan 2024 03:41:46 +0000</pubDate><guid>https://aiacg.github.io/posts/2024/01/18/sos4wcsg84kws0c5/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/738295" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;游戏概要&lt;/p&gt;
+&lt;p&gt;本游戏也被简称为 eratw ，属于era类型游戏之一。
+era游戏的趣味性就在于只使用文字，但就能通过文字开冲十分上头（？，不过eratw人物有肖像、差分、透视图。但。。真要冲有点难吧？，不过上头是真的，笑~）。我个人认为，一般文字游戏普遍特点是剧情丰富，量大管饱，把游戏内各个人物的性格形象塑造得十分丰满，跃然纸上。然后真对一次元动之以情了。。。
+该版本属于整合版，由贴吧大佬 零度 整合。
+除此之外，还有各个口上、补丁、汉化作者的辛勤努力，使得这游戏能够演变为今天现在的样子。
+再此，感谢各位dalao的辛勤付出，让我见到如此具有生机活力的游戏。（玩了半年印象深刻，流连忘返，太有意思了）
+游戏背景介绍
+（其实这游戏没什么背景，自由度太大，不过为了方便理解还是有一点介绍的）
+eratw是以东方幻想乡为背景的作品。
+你是一个穿越过来的人类，意外获得了时间停止的能力，并在幻想乡定居下来，
+和各路美少女（嗯，绝对没有老太kjhknjkaguwns）聊天约会和扫地泡茶，收集胖次、开宴会、采集药材、钓鱼种地、开impart等等等等。
+主角可选性别，自由度比较高，人物众多，口上(人物台词）丰富。
+其实上个月新发售有一款可能参考了eratw制作的游戏（可能），如果常在站里逛应该知道：点我传送
+可以参考上面这一款稍微了解一下
+游戏预览图
+（受限于萌站，图没有那么清晰，游戏里面挺清楚的）&lt;/p&gt;
+&lt;p&gt;地图可以是动态的，有风吹草动的感觉&lt;/p&gt;
+&lt;p&gt;（小五可爱捏~）&lt;/p&gt;
+&lt;p&gt;人物多达120位，超过一半有专属的口上（台词）剧情
+（其他的一些二创图）&lt;/p&gt;
+&lt;p&gt;关于游戏常出现的一系列问题
+安装问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;PC安装：
+首先，下载压缩包，解压（这就不用说了）。
+其次，搜索Saitamaar.ttf字体文件，鼠标右键安装（这个是小五字符画的必要字体，不装没有字符画，安卓同理）。
+最后，进入游戏，大概率会弹报错（正常现象）报错框会引导你去微软安装一个框架，安装完框架，就可以开启幻想乡之旅了。
+–
+2.安卓安装：
+下载xemuera模拟器，同样下载压缩包，解压。
+在文件管理器里面，于存储根目录创建文件夹，命名为emuera。
+把压缩包解压到文件夹（注意，请不要把散件（一堆文件）就扔进emuera，如说是散件，再创一个新文件夹把散件放进去）
+打开xemuera模拟器，如果能找到游戏，就说明安装正确，找不到就说明装错了。
+–
+接着重新去emuera文件夹里，创立新文件夹，命名为fonts，把Saitamaar.ttf扔进去，这样就有字符画了
+再建一个文件夹，命名为 .nomedia （注意，要把“.“也要打进去），这个是用来屏蔽手机相册检测图片（这位兄弟，你不想你的室友知道你手机有一些奇奇怪怪的图片吧）顺便科普一下，这还是一个隐藏文件夹，可能你创建后马上找不到这个文件了，需要打开 显示隐藏文件 的设置。
+最后，去你的相册看一眼，防止出现上述问题，如果还有，重启手机。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最后是这样的界面就行了（无视2023那个，是过去的版本）
+关于xemuera模拟器链接：点我传送
+游戏内的一些常见问题
+1.为什么在开始界面黑屏这么久啊，是不是出bug了？
+正常现象，这个游戏还挺吃内存的。。需要多等一段时间，手机可能要等一分钟多。
+–
+2.口上是什么东西？
+你可以简单的把它理解成”台词“，每个人物都有自己的口上，不同的口上有不同的”台词“。
+–
+3.刚开始游戏说”检测到多个口上“这是啥啊？选是否怎么选？
+这个刚开始接触这个游戏可以不用管，全部选否就行，同样后面有个update，也选否。
+之后了解这个游戏后就可以考虑这个问题了。
+–
+4.选家的位置在哪好啊？
+个人建议选人里，可以找慧音老师学习（提升教养），方便与其他人沟通（别人看你教养低不想和你说话），
+（而且教养可以拿去红魔馆赌场赚钱，赚钱还挺快的）
+而且人里在地图中心，交通发达。
+–
+5.这个游戏的目的是什么？
+emmmm，这个游戏没什么目的，自由度很高，你想干什么就干什么。
+你可以和慧音老师学习，来一场轰轰烈烈的师生恋（学习学多了好感也上去了。。。）；
+可以弹幕对决打遍乡内乡外无敌手，成为幻想乡扛把子；
+可以直接去月球，只身（寝）取敌将，对依姬进行为时5天的闪击战；
+可以去四处采集，做出一些能让美少女面红耳赤的神药；
+或者直接开时停，到处干坏事。。。。&lt;/p&gt;</description></item></channel></rss>

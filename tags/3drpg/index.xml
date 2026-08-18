@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>3DRPG on aiacg - ACG资源导航站</title><link>https://aiacg.github.io/tags/3drpg/</link><description>Recent content in 3DRPG on aiacg - ACG资源导航站</description><image><title>aiacg - ACG资源导航站</title><url>https://aiacg.github.io/og-default.png</url><link>https://aiacg.github.io/og-default.png</link></image><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 29 Jun 2026 04:59:20 +0000</lastBuildDate><atom:link href="https://aiacg.github.io/tags/3drpg/index.xml" rel="self" type="application/rss+xml"/><item><title>【3DRPG/汉化/全动态】吴竹的战士们 α版体验版Ver2 AI汉化版【新汉化/2.9G】</title><link>https://aiacg.github.io/posts/2026/06/29/w8gc408ww0k8g44h/</link><pubDate>Mon, 29 Jun 2026 04:59:20 +0000</pubDate><guid>https://aiacg.github.io/posts/2026/06/29/w8gc408ww0k8g44h/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://v2dao.store/contents/2460ec1539b842c7bea3dd496cf99ac4" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;吴竹的战士们 α版体验版Ver2 AI汉化版
+（呉竹の戦士たち）&lt;/p&gt;
+&lt;p&gt;游戏介绍：
+●主线事件推进
+第3章的主线事件已经完成。紧接着第4章的製作也在持续进行中，目前进度已到第4章的中盘。剩下的就只有第5章和结局了，因此主线事件预计在下个月或下下个月完成。&lt;/p&gt;
+&lt;p&gt;这是为第4章製作中的、凛酱的臀部特写用3D模型。&lt;/p&gt;
+&lt;p&gt;要用3D表现出这个角度的臀部真的是非常困难……( ﾟДﾟ)
+但是因为太想做了，所以就做出来了呢……。&lt;/p&gt;
+&lt;p&gt;●着色器调整
+对着色器和后期特效（画面效果）进行了调整。
+角色的观感等有了相当大的变化。&lt;/p&gt;
+&lt;p&gt;●两位新角色。
+着色器方面，对角色整体进行了2级阴影的调整，并且为主角角色的衣服部分（仅限衣服）添加了一种名为“MatCap”的技法。这种技法原本是从相机角度进行计算，但我们将其改为从光源角度计算MatCap，这是《传说》系列等游戏中曾使用过的技术。&lt;/p&gt;
+&lt;p&gt;●战斗UI调整
+之前就收到过“字体有点土气”的反馈，我想着至少对于要长时间观看的战斗界面，还是调整一下比较好，所以进行了修改。&lt;/p&gt;
+&lt;p&gt;比较大的改动有：让技能名称与按钮颜色相匹配；在操作时添加了专用的外框；在出现反击或暴击时，使用了带有故障特效的字体表现；调整了击败敌人后连续行动时的演出。此外，还增加了用图标来显示状态异常和服装破损状态的功能。&lt;/p&gt;
+&lt;p&gt;●标题画面调整
+之前的标题画面是我自己随便添改包装图画的，这次正式委托了T-TRACKさん进行了调整。同时，也配合新标题画面增加了一些画面特效。&lt;/p&gt;
+&lt;p&gt;●细节系统调整
+我们还进行了各种系统调整。
+・为了魔物H内容，将战斗中所有角色都能使用“防御”指令。
+・强化了教程相关内容。
+・实装了状态异常、眩晕、以及禁止使用道具的系统。
+・暴击时增加了画面震动效果。
+・战斗中现在会显示敌人的名字。
+・创建了在事件结束后，能够显示下一个目的地的机制及其演出。
+・调整了物理运算的处理，让臀部能从大腿开始摆动。
+・制作了用于调试的程序及其调试菜单。
+・新增了一名辅助角色。
+・修复了过场动画开始时前3帧，特殊阴影会闪烁的现象。
+・作为一项规格，创建了能接收玩家文字输入的机制。
+・创建了NPC会根据故事推进阶段而出现的机制（以往是全部预先配置好的）。
+・制作了普通对话时的表情图标和可视化动画。
+・创建了无人装备店，并增加了购买装备时与当前装备性能进行比较的系统。&lt;/p&gt;</description></item></channel></rss>
